@@ -1,2 +1,2 @@
 # CMPT412-Computer-Vision
-self-learning program
+https://yasu-furukawa.github.io/cmpt412-762-2023-fall/
